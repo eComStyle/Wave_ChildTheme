@@ -1,0 +1,23 @@
+{
+  "name": "ecs/wave_child",
+  "description": "This is a Wave-Childtheme for OXID eShop 6.",
+  "type": "oxideshop-theme",
+  "version": "1.0.0",
+  "keywords": [
+    "oxid",
+    "themes",
+    "eShop"
+  ],
+  "homepage": "https://ecomstyle.de",
+  "license": [
+    "GPL-3.0",
+    "proprietary"
+  ],
+  "minimum-stability": "dev",
+  "extra": {
+    "oxideshop": {
+      "target-directory": "wave_child",
+      "assets-directory": "out/wave_child"
+    }
+  }
+}
